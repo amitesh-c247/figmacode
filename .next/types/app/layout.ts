@@ -1,4 +1,4 @@
-// File: /home/c247/Documents/ReactProjects/Figma code generator/figmaadmin1/app/layout.tsx
+// File: /home/khushi/figmacode/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
